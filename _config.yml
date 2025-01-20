@@ -1,0 +1,13 @@
+title: Haris's Homepage!
+# description: >- # this means to ignore newlines until "baseurl:"
+#baseurl: "" # the subpath of your site, e.g. /blog
+#url: "https://mtayyab2.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+# twitter_username: jekyllrb
+github_username: haris90235
+linkedin_username: hariszamanengr
+
+# Build settings
+theme: minima
+plugins:
+  - jemoji
+  - jekyll-feed
