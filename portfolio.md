@@ -53,7 +53,7 @@ TARGET IDENTIFICATION AND DEEP ANALSYIS (Personality and perception)
 ![IN-DEPT POST ANALYSIS](/IN-DEPT POST ANALYSIS.png)
 IN-DEPTH POST ANALYSIS
 
-![COMBINED CASE ANALYSIS WITH ALL INCLUDED FACTORS](/COMBINED CASE ANALYSIS WITH ALL INCLUDED FACTORS.PNG)
+![COMBINED CASE ANALYSIS WITH ALL INCLUDED FACTORS](/COMBINED CASE ANALYSIS WITH ALL INCLUDED FACTORS.png)
 COMBINED CASE ANALYSIS WITH ALL INCLUDED FACTORS
 
 My OSINT analysis encompasses a broad range of factors, providing a comprehensive approach to gathering and interpreting open-source intelligence. The overview mentioned above is just a snapshot of my work, highlighting the diversity and depth of the cases I have handled. Through meticulous analysis and the application of advanced tools, I extract actionable insights that support strategic decision-making. My experience reflects a strong commitment to delivering high-quality intelligence that meets the unique needs of each case.
