@@ -15,13 +15,16 @@ In my freelance role, I undertook an AI-driven project focused on detecting prop
 #### Target Search
 - Comprehensive data collection: Utilizing advanced OSINT tools to gather and analyze data on specific targets across various platforms.
 - Profile building: Creating detailed profiles based on open-source information, including social media, public records, and online activities.
+  
 #### Case Management
 - Case tracking: Managing multiple cases simultaneously with structured documentation and progress tracking.
 -	Reporting: Providing regular updates and comprehensive reports on findings, ensuring transparency and client alignment.
+  
 #### OSINT Tools (Suspect Matching and Phishing Services)
 -	Suspect matching: Leveraging AI and machine learning algorithms to match suspects across datasets and identify connections.
 -	Phishing detection: Monitoring for phishing activities and providing actionable intelligence to mitigate threats.
 -	Tool integration: Utilizing and integrating top OSINT tools for efficient suspect identification and data correlation.
+  
 #### Top Trend Analysis
 -	Trend monitoring: Analyzing top trends across social media, news, and other platforms to identify emerging threats and patterns.
 -	Insight generation: Providing clients with actionable insights into trending topics that could impact their operations or security.
