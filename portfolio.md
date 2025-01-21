@@ -32,3 +32,4 @@ In my freelance role, I undertook an AI-driven project focused on detecting prop
 ### Malaysia Anti-State Protests: A Sentiment and Human Rights Analysis.
 I am adding this project to my portfolio to showcase the depth and precision of analysis achievable through AI-driven solutions. The project highlights the application of advanced technology in deriving insights and solutions in complex areas like human psychology, propaganda, social media impacts, and behavioral analysis
 
+![OVER POST TIMELINE VISUAL REPRESNTATION](OVER POST TIMELINE VISUAL REPRESENTATION.PNG)
