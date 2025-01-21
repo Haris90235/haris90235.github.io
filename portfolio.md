@@ -33,3 +33,27 @@ In my freelance role, I undertook an AI-driven project focused on detecting prop
 I am adding this project to my portfolio to showcase the depth and precision of analysis achievable through AI-driven solutions. The project highlights the application of advanced technology in deriving insights and solutions in complex areas like human psychology, propaganda, social media impacts, and behavioral analysis
 
 ![OVER POST TIMELINE VISUAL REPRESNTATION](/OVER POST TIMELINE VISUAL REPRESNTATION.png)
+OVER POST TIMELINE VISUAL REPRESNTATION
+
+![USER ACTIVE HOURS OF INCLUDED TARGETS](/USER ACTIVE HOURS OF INCLUDED TARGETS.png)
+USER ACTIVE HOURS OF INCLUDED TARGETS
+
+![CATEGORIZATION OF OVERALL POST COMBINED ](/CATEGORIZATION OF OVERALL POST COMBINED.png)
+CATEGORIZATION OF OVERALL POST COMBINED
+
+![SENTIMENT AND EMPOTIONAL VALUES](/SENTIMENT AND EMPOTIONAL VALUES.png)
+SENTIMENT AND EMPOTIONAL VALUES
+
+![TAGS AND APPLIED NERs](/TAGS AND APPLIED NERs.png)
+TAGS AND APPLIED NERs
+
+![TARGET IDENTIFICATION AND DEEP ANALSYIS (Personality and perception)](/TARGET IDENTIFICATION AND DEEP ANALSYIS (Personality and perception).png)
+TARGET IDENTIFICATION AND DEEP ANALSYIS (Personality and perception)
+
+![IN-DEPT POST ANALYSIS](/IN-DEPT POST ANALYSIS.png)
+IN-DEPTH POST ANALYSIS
+
+![COMBINED CASE ANALYSIS WITH ALL INCLUDED FACTORS](/COMBINED CASE ANALYSIS WITH ALL INCLUDED FACTORS.PNG)
+COMBINED CASE ANALYSIS WITH ALL INCLUDED FACTORS
+
+My OSINT analysis encompasses a broad range of factors, providing a comprehensive approach to gathering and interpreting open-source intelligence. The overview mentioned above is just a snapshot of my work, highlighting the diversity and depth of the cases I have handled. Through meticulous analysis and the application of advanced tools, I extract actionable insights that support strategic decision-making. My experience reflects a strong commitment to delivering high-quality intelligence that meets the unique needs of each case.
